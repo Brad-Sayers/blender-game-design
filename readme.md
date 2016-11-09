@@ -1,17 +1,8 @@
-git init
+Run the .sh file using the following commands;
 
-git remote add origin https://github.com/Brad-Sayers/blender-game-design.git
+	in the folder you want the files to be stored in right-click and 
+click on open terminal here.
 
-git pull
-
-git add (file_name)
-
-git commit 
-##enter date and time##
-
-git push
-
-##username##
-
-##password##
-
+	type in the following commands;
+chmod +x setup.sh
+./setup.sh
