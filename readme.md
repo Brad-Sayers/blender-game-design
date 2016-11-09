@@ -4,7 +4,7 @@
 	Right click
 	Click on open terminal here
 
-###type in the following commands##
+###Type in the following commands##
 
 	chmod +x setup.sh
 	./setup.sh
