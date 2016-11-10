@@ -15,3 +15,9 @@ If anyone uses our project materials without referal to the distinguished projec
 	./setup.sh
 
 
+##Upload Files##
+	git add (file name)
+	git commit -m (mm/dd/yy h:mm "what was changed")
+	git push origin master
+
+
