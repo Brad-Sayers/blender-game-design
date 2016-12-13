@@ -20,6 +20,5 @@ If anyone uses our project materials without referal to the distinguished projec
 
 ##Upload Files##
 	git add (file name)
-	git commit -m "mm/dd/yy h:mm am/pm"
+	git commit -m "mm/dd/yy h:mm"
 	git push origin master
-/home/h/hwallbank/Desktop/Game/harry/Renders/Rammer.png
