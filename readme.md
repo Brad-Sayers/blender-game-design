@@ -1,7 +1,10 @@
 ##Licences##
 In this assignment is a group project for only the four of us to be able to use each others work.
 If anyone uses our project materials without referal to the distinguished project and/or work then you can refer to section 3 of the copy-right licence.
-/home/h/hwallbank/Desktop/Game/harry/Renders/Rammer.png
+###End of user Agreement###
+##Game File##
+###To play the game you will need to go to the FinishedGame Folder and open the Game.exe##
+
 ##Setup##
 ###Run the .sh file using the following commands###
 
