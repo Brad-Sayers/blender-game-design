@@ -4,7 +4,7 @@ If anyone uses our project materials without referal to the distinguished projec
 ###End of user Agreement###
 
 ##Game File##
-###To play the game you will need to go to the FinishedGame Folder and open the Game.exe##
+###To play the game you will need to go to the FinishedGame Folder and open the Game.exe###
 
 ##Upload Files##
 	git add (file name)
